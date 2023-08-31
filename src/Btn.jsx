@@ -63,7 +63,7 @@ function Btn() {
                 <button className='circle'
                 onClick={() => playAudio(risada)}
                 style={{
-                    backgroundImage: 'url(/src/img/rindo.jpg)',
+                    background: 'url(/src/img/rindo.jpg)',
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                   }}></button>
@@ -73,7 +73,7 @@ function Btn() {
             <button className='circle'
                 onClick={() => playAudio(gado)}
                 style={{
-                    backgroundImage: 'url(/src/img/nico.png)',
+                    background: 'url(/src/img/nico.png)',
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                   }}></button>
