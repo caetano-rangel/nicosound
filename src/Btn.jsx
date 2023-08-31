@@ -63,7 +63,7 @@ function Btn() {
                 <button className='circle'
                 onClick={() => playAudio(risada)}
                 style={{
-                    background: 'url(/src/img/rindo.jpg)',
+                    background:'url(nicosound/src/img/rindo.jpg)',
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                   }}></button>
@@ -73,9 +73,9 @@ function Btn() {
             <button className='circle'
                 onClick={() => playAudio(gado)}
                 style={{
-                    background: 'url(/src/img/nico.png)',
+                    background:'url(/src/img/nico.png)',
                     backgroundSize: 'cover',
-                    backgroundPosition: 'center',
+                    backgroundPosition: 'center'
                   }}></button>
                 <h2 className='legenda'>gado</h2>
             </div>
@@ -83,7 +83,7 @@ function Btn() {
             <button className='circle'
                 onClick={() => playAudio(bane)}
                 style={{
-                    backgroundImage: 'url(/src/img/pirata.png)',
+                    backgroundImage:'url(/src/img/pirata.png)',
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                   }}></button>
