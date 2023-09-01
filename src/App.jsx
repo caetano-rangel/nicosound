@@ -1,5 +1,4 @@
 import './styles/components/app.sass'
-import Line from './Line'
 import Btn from './Btn'
 
 function App() {

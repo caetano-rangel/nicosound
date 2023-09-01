@@ -64,165 +64,165 @@ function Btn() {
               <h2 className="legenda">risada</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(gado)}></button>
+              <button className="circle gado" onClick={() => playAudio(gado)}></button>
               <h2 className="legenda">gado</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(bane)}></button>
+              <button className="circle bane" onClick={() => playAudio(bane)}></button>
               <h2 className="legenda">então bane</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(puta)}></button>
+              <button className="circle puta" onClick={() => playAudio(puta)}></button>
               <h2 className="legenda">ouve puta</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(conjutivite)}></button>
+              <button className="circle conjutivite" onClick={() => playAudio(conjutivite)}></button>
               <h2 className="legenda">conjutivite</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(orfao)}></button>
+              <button className="circle orfao" onClick={() => playAudio(orfao)}></button>
               <h2 className="legenda">orfão</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(mengochegando)}></button>
+              <button className="circle mengo" onClick={() => playAudio(mengochegando)}></button>
               <h2 className="legenda">mengo</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(amem)}></button>
+              <button className="circle amem" onClick={() => playAudio(amem)}></button>
               <h2 className="legenda">amém</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(anula)}></button>
+              <button className="circle anula" onClick={() => playAudio(anula)}></button>
               <h2 className="legenda">anula eles</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(dedoxota)}></button>
+              <button className="circle dedo" onClick={() => playAudio(dedoxota)}></button>
               <h2 className="legenda">dedo aonde?</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(vinimalandreza)}></button>
+              <button className="circle malandreza" onClick={() => playAudio(vinimalandreza)}></button>
               <h2 className="legenda">malandreza</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(oizinho)}></button>
+              <button className="circle oizinho" onClick={() => playAudio(oizinho)}></button>
               <h2 className="legenda">oizinho</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(speedo)}></button>
+              <button className="circle speedo" onClick={() => playAudio(speedo)}></button>
               <h2 className="legenda">speedo</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(girino)}></button>
+              <button className="circle girino" onClick={() => playAudio(girino)}></button>
               <h2 className="legenda">girino</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(gordinhopapinho)}></button>
+              <button className="circle papinho" onClick={() => playAudio(gordinhopapinho)}></button>
               <h2 className="legenda">papinho</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(spa)}></button>
+              <button className="circle spa" onClick={() => playAudio(spa)}></button>
               <h2 className="legenda">spa</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(mergulhado)}></button>
+              <button className="circle mergulhou" onClick={() => playAudio(mergulhado)}></button>
               <h2 className="legenda">mergulhou</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(vaza)}></button>
+              <button className="circle vaza" onClick={() => playAudio(vaza)}></button>
               <h2 className="legenda">vaza!</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(bolafora)}></button>
+              <button className="circle bola" onClick={() => playAudio(bolafora)}></button>
               <h2 className="legenda">bola fora</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(sono)}></button>
+              <button className="circle sonin" onClick={() => playAudio(sono)}></button>
               <h2 className="legenda">sonin</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(romario)}></button>
+              <button className="circle romario" onClick={() => playAudio(romario)}></button>
               <h2 className="legenda">romario</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(favelado)}></button>
+              <button className="circle favelado" onClick={() => playAudio(favelado)}></button>
               <h2 className="legenda">favelado</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(fecha)}></button>
+              <button className="circle lata" onClick={() => playAudio(fecha)}></button>
               <h2 className="legenda">fecha a lata</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(sole)}></button>
+              <button className="circle sole" onClick={() => playAudio(sole)}></button>
               <h2 className="legenda">sole</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(nuncamais)}></button>
+              <button className="circle never" onClick={() => playAudio(nuncamais)}></button>
               <h2 className="legenda">never more</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(lambe)}></button>
+              <button className="circle lambe" onClick={() => playAudio(lambe)}></button>
               <h2 className="legenda">lambe</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(euacho)}></button>
+              <button className="circle acho" onClick={() => playAudio(euacho)}></button>
               <h2 className="legenda">eu acho!</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(podeser)}></button>
+              <button className="circle pode" onClick={() => playAudio(podeser)}></button>
               <h2 className="legenda">pode ser?</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(gadomiseravel)}></button>
+              <button className="circle miserável" onClick={() => playAudio(gadomiseravel)}></button>
               <h2 className="legenda">miserável</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(papotorto)}></button>
+              <button className="circle torto" onClick={() => playAudio(papotorto)}></button>
               <h2 className="legenda">papo torto</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(ouvecalaboca)}></button>
+              <button className="circle ouve" onClick={() => playAudio(ouvecalaboca)}></button>
               <h2 className="legenda">ouve e...</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(fernando)}></button>
+              <button className="circle fernando" onClick={() => playAudio(fernando)}></button>
               <h2 className="legenda">fernando</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(nokia)}></button>
+              <button className="circle nokia" onClick={() => playAudio(nokia)}></button>
               <h2 className="legenda">nokia</h2>
             </div>
           </div>
           <div className="box" data-aos="fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(tapapeito)}></button>
+              <button className="circle tapa" onClick={() => playAudio(tapapeito)}></button>
               <h2 className="legenda">tapa</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(cheiracabelo)}></button>
+              <button className="circle cheira" onClick={() => playAudio(cheiracabelo)}></button>
               <h2 className="legenda">cheira ai</h2>
             </div>
             <div className="btn-circle">
-              <button className="circle" onClick={() => playAudio(peixeespada)}></button>
+              <button className="circle fish" onClick={() => playAudio(peixeespada)}></button>
               <h2 className="legenda">sword fish</h2>
             </div>
           </div>
