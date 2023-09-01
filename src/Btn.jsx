@@ -60,7 +60,7 @@ function Btn() {
       <div id="btn">
         <div className="box" data-aos= "fade-up" data-aos-duration="2000">
             <div className="btn-circle">
-                <button className='circle'
+                <button className='circle1'
                 onClick={() => playAudio(risada)}
                 ></button>
                 <h2 className='legenda'>risada</h2>
