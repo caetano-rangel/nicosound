@@ -62,11 +62,7 @@ function Btn() {
             <div className="btn-circle">
                 <button className='circle'
                 onClick={() => playAudio(risada)}
-                style={{
-                    background:'url(nicosound/src/img/rindo.jpg)',
-                    backgroundSize: 'cover',
-                    backgroundPosition: 'center',
-                  }}></button>
+                ></button>
                 <h2 className='legenda'>risada</h2>
             </div>
             <div className="btn-circle">
